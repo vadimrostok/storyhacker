@@ -30,3 +30,6 @@ accounts-google
 
 # code editor
 mizzao:sharejs-ace@=1.1.9
+
+# styles
+materialize:materialize@=0.97.0
